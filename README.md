@@ -6,7 +6,7 @@ train_yolo5.ipynb                код дообучения yolo5 на даст
 
 detecto_train.ipynb              код дообучения Resnet из библиотеки Detecto.
 
-detecto_inference.ipynb          код запуска модели дообученной в detecto и тест на картинке с номером.
+detecto_inference.ipynb          код запуска модели дообученной в Detecto и тест на картинке с номером.
 
 inference_yolo5+detecto.ipynb    пайплайн yolo5+ Detecto запускается на видео с гос номером.
 

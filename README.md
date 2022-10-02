@@ -16,6 +16,10 @@ seformer_train.ipynb             Процесс обучения segformer на 
                                  Инференс на примере картинок из интернета.
 
 
+
+https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing    Ссылка на датасет, на котором дообучали yolo5.
+
+
 https://youtu.be/gGTMRvCN_zI     Ссылка на видео с демонстрацией работы дообученной yolo5. 
 
 https://youtu.be/Opa3ss7x7cs     Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). 

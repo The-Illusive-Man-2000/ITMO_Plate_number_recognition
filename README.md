@@ -23,7 +23,11 @@ seformer_train.ipynb             Процесс обучения segformer на 
 
 https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing    Ссылка на архив с датасетом, на котором дообучали yolo5.
 
-https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing    Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto. 
+https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing    Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto.
+
+https://drive.google.com/file/d/1PSemzoMMqLW5OJhw9UUhh5ej3i8PxsGs/view?usp=sharing    Ссылка на веса дообученной Yolo5.
+
+https://drive.google.com/file/d/1x9ylDT3atD_tS7-GYSW6ecm0FnnvcQc_/view?usp=sharing    Ссылка на веса дообученной в Detecto Resnet50.
 
 
 https://youtu.be/gGTMRvCN_zI     Ссылка на видео с демонстрацией работы дообученной yolo5. 

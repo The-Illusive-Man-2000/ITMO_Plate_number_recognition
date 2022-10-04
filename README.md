@@ -23,6 +23,15 @@ EasyOCR_test_on_plates.ipynb     Код тестирования EasyOcr на ф
 detecto_test_on_plates.ipynb     Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности.
 
 
+
+Сравнение Detecto и EasyOcr проводилось на 2845 фото с номерами.
+
+                             | Detecto | EasyOcr  |
+:----------------------------|:-------:|:--------:|
+Accuracy                     | 0.745   | 0.182
+Обработанных фото в секунду  | 28,45   | 44,45    |
+
+
 https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing    Ссылка на архив с датасетом, на котором дообучали yolo5.
 
 https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing    Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto.

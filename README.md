@@ -1,4 +1,4 @@
-## ITMO_Plate_number_recognition
+#### ITMO_Plate_number_recognition
 
 
 
@@ -20,6 +20,10 @@ segformer_license_plate          Папка с кодом для segformer. Ко
                                  Получение датасета из сервиса разметки segments. Преобразование датасета в hf.Datasets.
                                  Инициализация парамемтров обучения и обучение модели.
                                  Инференс на примере картинок из интернета.
+
+***
+
+
 
 EasyOCR_test_on_plates.ipynb     Код тестирования EasyOcr на фотографиях с номерами, замеры скорости и точности. 
 detecto_test_on_plates.ipynb     Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности.

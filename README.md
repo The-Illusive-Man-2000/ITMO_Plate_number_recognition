@@ -4,9 +4,9 @@
 
 __Описание файлов репозитория:__
 
-train_yolo5.ipynb                код дообучения yolo5 на дастасете с гос. номерами.
+train_yolo5.ipynb                _код дообучения yolo5 на дастасете с гос. номерами._
 
-detecto_train.ipynb              код дообучения Resnet из библиотеки Detecto.
+detecto_train.ipynb              _код дообучения Resnet из библиотеки Detecto._
 
 detecto_inference.ipynb          код запуска модели дообученной в Detecto и тест на картинке с номером.
 

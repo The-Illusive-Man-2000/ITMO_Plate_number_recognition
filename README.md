@@ -16,17 +16,16 @@ data.yaml    $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   _Конфигу
 
 test_plate.png      $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  _Тестовое фото с номером на котором запускался файл detecto_inference.ipynb_
 
-segformer_license_plate  $~~~~~~~~~~~~~~~~~~~~$  _Папка с кодом для segformer. Код обучения segformer на базе библиотеки transformers от huggingface.
-$~~~~~~~~~~~~~~~~~~~~$                                 _Получение датасета из сервиса разметки segments. Преобразование датасета в hf.Datasets._
-                                 _Инициализация парамемтров обучения и обучение модели._
-                                 _Инференс на примере картинок из интернета._
+segformer_license_plate  $~~~~~~~~~~~~~~~~~~~~~$  _Папка с кодом для segformer. Обучение segformer на базе библиотеки transformers от huggingface._
+
 
 ***
 
 
 
 EasyOCR_test_on_plates.ipynb   $~~~~~~~~~~$  _Код тестирования EasyOcr на фотографиях с номерами, замеры скорости и точности._ 
-detecto_test_on_plates.ipynb  $~~~~~~~~~~$   _Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности._
+detecto_test_on_plates.ipynb  $~~~~~~~~~~~~$   _Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности._
+
 
 
 
@@ -42,18 +41,18 @@ Accuracy                     | 0.745   | 0.182
 
 https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing   $~~~~~~~~~~$  _Ссылка на архив с датасетом, на котором дообучали Yolo5._
 
-https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto._
+https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing  $~~~~~~~$  _Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto._
 
-https://drive.google.com/file/d/1PSemzoMMqLW5OJhw9UUhh5ej3i8PxsGs/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на веса дообученной Yolo5._
+https://drive.google.com/file/d/1PSemzoMMqLW5OJhw9UUhh5ej3i8PxsGs/view?usp=sharing  $~~~~~$  _Ссылка на веса дообученной Yolo5._
 
 https://drive.google.com/file/d/1x9ylDT3atD_tS7-GYSW6ecm0FnnvcQc_/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на веса дообученной в Detecto Resnet50._
 
 
-https://youtu.be/gGTMRvCN_zI   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученной yolo5._
+https://youtu.be/gGTMRvCN_zI   $~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученной yolo5._
 
 https://youtu.be/Opa3ss7x7cs   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео)._ 
 
-https://youtu.be/qEU8Up3fZ2A   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). Вторая машина._
+https://youtu.be/qEU8Up3fZ2A   $~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). Вторая машина._
 
 ***
 

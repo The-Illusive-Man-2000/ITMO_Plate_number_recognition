@@ -6,27 +6,27 @@ __Описание файлов репозитория:__
 
 train_yolo5.ipynb    $~~~~~~~~~~$   _код дообучения yolo5 на дастасете с гос. номерами._
 
-detecto_train.ipynb              _код дообучения Resnet из библиотеки Detecto._
+detecto_train.ipynb  $~~~~~~~~~~$   _код дообучения Resnet из библиотеки Detecto._
 
-detecto_inference.ipynb          код запуска модели дообученной в Detecto и тест на картинке с номером.
+detecto_inference.ipynb $~~~~~~~~~~$ _код запуска модели дообученной в Detecto и тест на картинке с номером._
 
-inference_yolo5+detecto.ipynb    пайплайн yolo5+ Detecto запускается на видео с гос номером.
+inference_yolo5+detecto.ipynb $~~~~~~~~~~$ _пайплайн yolo5+ Detecto запускается на видео с гос номером._
 
-data.yaml                        Конфигурационный файл для дообучения yolo5.
+data.yaml    $~~~~~~~~~~$   _Конфигурационный файл для дообучения yolo5._
 
-test_plate.png                   Тестовое фото с номером на котором запускался файл detecto_inference.ipynb
+test_plate.png      $~~~~~~~~~~$  _Тестовое фото с номером на котором запускался файл detecto_inference.ipynb_
 
-segformer_license_plate          Папка с кодом для segformer. Код обучения segformer на базе библиотеки transformers от huggingface.
+segformer_license_plate  $~~~~~~~~~~$  _Папка с кодом для segformer. Код обучения segformer на базе библиотеки transformers от huggingface.
                                  Получение датасета из сервиса разметки segments. Преобразование датасета в hf.Datasets.
                                  Инициализация парамемтров обучения и обучение модели.
-                                 Инференс на примере картинок из интернета.
+                                 Инференс на примере картинок из интернета._
 
 ***
 
 
 
-EasyOCR_test_on_plates.ipynb     Код тестирования EasyOcr на фотографиях с номерами, замеры скорости и точности. 
-detecto_test_on_plates.ipynb     Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности.
+EasyOCR_test_on_plates.ipynb   $~~~~~~~~~~$  _Код тестирования EasyOcr на фотографиях с номерами, замеры скорости и точности._ 
+detecto_test_on_plates.ipynb  $~~~~~~~~~~$   _Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности._
 
 
 
@@ -40,20 +40,20 @@ Accuracy                     | 0.745   | 0.182
 
 ***
 
-https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing    Ссылка на архив с датасетом, на котором дообучали Yolo5.
+https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing   $~~~~~~~~~~$  _Ссылка на архив с датасетом, на котором дообучали Yolo5._
 
-https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing    Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto.
+https://drive.google.com/file/d/1KZ3xQCUj9XKREW2jDrPcl4Zwo-UgOZq9/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на архив с фотографиями и разметкой, на которых дообучали Detecto._
 
-https://drive.google.com/file/d/1PSemzoMMqLW5OJhw9UUhh5ej3i8PxsGs/view?usp=sharing    Ссылка на веса дообученной Yolo5.
+https://drive.google.com/file/d/1PSemzoMMqLW5OJhw9UUhh5ej3i8PxsGs/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на веса дообученной Yolo5._
 
-https://drive.google.com/file/d/1x9ylDT3atD_tS7-GYSW6ecm0FnnvcQc_/view?usp=sharing    Ссылка на веса дообученной в Detecto Resnet50.
+https://drive.google.com/file/d/1x9ylDT3atD_tS7-GYSW6ecm0FnnvcQc_/view?usp=sharing  $~~~~~~~~~~$  _Ссылка на веса дообученной в Detecto Resnet50._
 
 
-https://youtu.be/gGTMRvCN_zI     Ссылка на видео с демонстрацией работы дообученной yolo5. 
+https://youtu.be/gGTMRvCN_zI   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученной yolo5._
 
-https://youtu.be/Opa3ss7x7cs     Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). 
+https://youtu.be/Opa3ss7x7cs   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео)._ 
 
-https://youtu.be/qEU8Up3fZ2A     Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). Вторая машина.
+https://youtu.be/qEU8Up3fZ2A   $~~~~~~~~~~$  _Ссылка на видео с демонстрацией работы дообученнйх yolo5 и Detecto (рамка с номером и распознанные символы отображаются на видео). Вторая машина._
 
 ***
 

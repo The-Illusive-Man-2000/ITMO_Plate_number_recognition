@@ -19,8 +19,8 @@ seformer_train.ipynb             Процесс обучения segformer на 
                                  Инициализация парамемтров обучения и обучение модели.
                                  Инференс на примере картинок из интернета.
 
-EasyOCR_test.ipynb               Код тестирования EasyOcr. 
-
+EasyOCR_test_on_plates.ipynb     Код тестирования EasyOcr на фотографиях с номерами, замеры скорости и точности. 
+detecto_test_on_plates.ipynb     Код тестирования Detecto на фотографиях с номерами, замеры скорости и точности.
 
 
 https://drive.google.com/file/d/1CtwtQBOKxNQbYaRqofxRFJRy63hLurSf/view?usp=sharing    Ссылка на архив с датасетом, на котором дообучали yolo5.

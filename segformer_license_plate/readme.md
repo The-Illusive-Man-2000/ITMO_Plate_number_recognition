@@ -2,6 +2,15 @@ seformer_train.ipynb     $~~~~~~~~~~~~~~~~~$             _Код обучени�
 
 inference_segformer.ipynb  $~~~~~~$ _Код запуска._
 
+***
+
+segformers
+скорость: 1.8c на изображение (на загруженной видюхе)
+accuracy (plate detection): 0.91(test set)
+accuracy (car detection): 0.98(test set)
+accuracy (truck detection): 0.72(test set)
+accuracy (emergency detection): 0.59(test set)
+
 
 ***
 

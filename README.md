@@ -17,8 +17,7 @@ data.yaml    $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   _Конфигу
 
 
 ***
-
-segformer_license_plate  $~~~~~~~~~~~~~~~~~~~~~$  _Папка с кодом для segformer. Обучение segformer на базе библиотеки transformers от huggingface._
+__Папка segformer_license_plate__  $~~~~~~$  _Папка с кодом для segformer. Обучение segformer на базе библиотеки transformers от huggingface._
 
 
 ***

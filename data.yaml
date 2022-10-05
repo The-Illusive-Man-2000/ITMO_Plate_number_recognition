@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/train/images
-val: /content/drive/MyDrive/valid/images
-
-nc: 1
-names: ['License-plate']

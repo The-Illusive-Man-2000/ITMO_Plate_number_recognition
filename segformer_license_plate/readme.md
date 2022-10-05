@@ -5,6 +5,4 @@ inference_segformer.ipynb  $~~~~~~$ _Код запуска._
 
 ***
 
-https://drive.google.com/file/d/1KUNoV9rIaUm3BGsG7g1S7ORQOk-fGcOW/view?usp=sharing  $~~~~~~$  _Исходное видео._
-
-https://drive.google.com/file/d/1oKTdDzX_muJ5MWzVux9KTaBv2FhXRL3p/view?usp=sharing  $~~~~~~~~~$  _Размеченное видео._
+https://www.youtube.com/watch?v=LycKZC9_T8s  $~~~~~~~~~$  _Размеченное видео._

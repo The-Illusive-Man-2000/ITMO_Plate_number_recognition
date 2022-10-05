@@ -5,4 +5,6 @@ inference_segformer.ipynb  $~~~~~~$ _Код запуска._
 
 ***
 
+https://drive.google.com/drive/folders/1V4qgtT0NrZYc8dpoPHD24uC5llICkvYh?usp=sharing     $~~~~~~~~~$  _Ссылка на веса модели._
+
 https://www.youtube.com/watch?v=LycKZC9_T8s  $~~~~~~~~~$  _Размеченное видео._
